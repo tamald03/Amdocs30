@@ -1,0 +1,6 @@
+I feel good
+Kafka data warehouse
+AWS Glue Athena
+(Query editor)
+Redshift AWS data warehouse
+def fun(): bcz anyone told
